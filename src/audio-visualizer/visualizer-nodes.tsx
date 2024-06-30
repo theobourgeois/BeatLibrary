@@ -42,9 +42,9 @@ const waveNode: VisualizerNodeFunction<{
     startY?: number;
     thickness?: number;
     invert?: boolean;
-    invertX: boolean;
+    invertX?: boolean;
     startZ?: number;
-    flip: boolean;
+    flip?: boolean;
 }> = (
     {
         color = "white",

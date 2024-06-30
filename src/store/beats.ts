@@ -119,7 +119,6 @@ const beats: Beat[] = [
             amplitude: 1,
             period: 1,
             startY: 0,
-            invertX: true,
           },
         },
         {
@@ -130,8 +129,6 @@ const beats: Beat[] = [
             period: 1,
             startY: 0,
             invert: true,
-            flip: true,
-            invertX: true,
           },
         },
         {
